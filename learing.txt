@@ -1,4 +1,4 @@
 Line 1: Hello
-Line 2: This is a shared file
+Line 2: This is edited by Bob
 Line 3: Let's collaborate
 Line 4: Thanks!
